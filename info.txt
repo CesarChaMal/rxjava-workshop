@@ -1,0 +1,5 @@
+git branch -a
+git checkout -b remotes/origin/solutions
+git branch -d remotes/origin/solutions
+git branch
+git checkout solutions
